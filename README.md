@@ -1,2 +1,2 @@
-# vmware
-vmware competition
+# Garbage Wars in ELSYS
+VMware Competition
